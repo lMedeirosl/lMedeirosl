@@ -161,7 +161,7 @@ I am seeking my first professional opportunity, internship or junior role, to gr
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      width="48%" 
+      width="35%" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lMedeirosl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
