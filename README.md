@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Medeiros</h1>
-<h3 align="center">Back-end Developer in Training | JavaScript • Node.js • Java</h3>
+<h3 align="center">Full Stack Developer in Training | JavaScript • Node.js • Java</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lMedeirosl&label=Profile+Views&color=1f6feb&style=for-the-badge" />
@@ -13,42 +13,9 @@ PT-BR 🇧🇷
 Sou um desenvolvedor em formação com foco em Back-end, atualmente estudando JavaScript e Node.js, além de fundamentos em Java.  
 Busco minha primeira oportunidade profissional, estágio ou vaga júnior, com foco em aprendizado e evolução técnica.
 
-En us
+EN-US  
 I am a back-end developer in training, currently studying JavaScript and Node.js, with a foundation in Java.
 I am seeking my first professional opportunity, internship or junior role, to grow and contribute to real projects.
-
----
-
-<p align="left">
-    <a href="https://www.youtube.com/@llMedeirosll?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@llMedeirosll">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/lMedeirosl?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/lMedeirosl?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/lMedeirosl?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
@@ -166,33 +133,53 @@ I am seeking my first professional opportunity, internship or junior role, to gr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
+<br/>
+<br/>
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lMedeirosl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      width="50%" 
+      src="https://github-readme-stats.vercel.app/api?username=lMedeirosl&theme=tokyonight&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      width="48%" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lMedeirosl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
 
+<br/>
 
----
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## 🌐 Contact & Social
+
 <p align="center">
   <a href="https://github.com/lMedeirosl" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
@@ -208,11 +195,9 @@ I am seeking my first professional opportunity, internship or junior role, to gr
   </a>
 </p>
 
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake.svg" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer"/>
 </p>
-
