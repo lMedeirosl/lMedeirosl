@@ -65,4 +65,5 @@ I am seeking my **first professional opportunity**, internship or junior role, t
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
 </p>
+
 ![Snake animation](https://github.com/lMedeirosl/lMedeirosl/blob/output/github-contribution-grid-snake.svg)
