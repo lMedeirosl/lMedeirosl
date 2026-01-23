@@ -13,9 +13,10 @@ PT-BR 🇧🇷
 Sou um desenvolvedor em formação com foco em Back-end, atualmente estudando JavaScript e Node.js, além de fundamentos em Java.  
 Busco minha primeira oportunidade profissional, estágio ou vaga júnior, com foco em aprendizado e evolução técnica.
 
-EN 🇺🇸  
-I am a back-end developer in training, currently studying JavaScript and Node.js, with a foundation in Java.  
+En us
+I am a back-end developer in training, currently studying JavaScript and Node.js, with a foundation in Java.
 I am seeking my first professional opportunity, internship or junior role, to grow and contribute to real projects.
+
 ---
 
 <p align="left">
