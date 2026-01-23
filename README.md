@@ -18,22 +18,91 @@ I am a back-end developer in training, currently studying **JavaScript and Node.
 I am seeking my **first professional opportunity**, internship or junior role, to grow and contribute to real projects.
 
 ---
-
-## 🚀 Tecnologias | Tech Stack
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,git,github&theme=dark"
-    alt="Tech stack icons"
-  />
+<p align="left">
+    <a href="https://github.com/lMedeirosl">
+        <img 
+            alt="GitHub seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/lMedeirosl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/lMedeirosl?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/lMedeirosl?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
 </p>
-
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lMedeirosl&show_icons=true&theme=github_dark&hide_border=true" />
+### 🤖 Linguagens e Tecnologias
+
+<!-- você pode manter, trocar ou remover depois -->
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=lMedeirosl&show_icons=true&theme=github_dark&include_all_commits=true" 
+  />
+
+  <img 
+      align="left" 
+      alt="Top Languages" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lMedeirosl&theme=github_dark&layout=compact&langs_count=8" 
+  />
 </p>
+
 
 ---
 
