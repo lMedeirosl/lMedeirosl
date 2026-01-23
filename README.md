@@ -64,7 +64,6 @@ I am seeking my **first professional opportunity**, internship or junior role, t
 <p align="center">
   <img src="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake.svg" />
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer"/>
 </p>
