@@ -20,9 +20,26 @@ I am seeking my **first professional opportunity**, internship or junior role, t
 ---
 
 ## 🚀 Tecnologias | Tech Stack
+
+**Back-end**
+- JavaScript (Node.js)
+- Java
+
+**Front-end**
+- HTML5
+- CSS3
+
+**Versionamento & Ferramentas**
+- Git
+- GitHub
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,git,github&theme=dark" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,git,github&theme=dark"
+    alt="Tech stack icons"
+  />
 </p>
+
 
 ---
 
