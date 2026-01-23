@@ -71,4 +71,3 @@ I am seeking my **first professional opportunity**, internship or junior role, t
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake.svg)
-
