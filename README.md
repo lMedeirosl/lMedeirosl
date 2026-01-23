@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=header"/>
+</p>
 <h1 align="center">👋 Hi, I'm Medeiros</h1>
 <h3 align="center">Full Stack Developer in Training | JavaScript • Node.js • Java</h3>
 
