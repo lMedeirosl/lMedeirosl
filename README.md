@@ -2,7 +2,7 @@
 <h3 align="center">Back-end Developer in Training | JavaScript • Node.js • Java</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lMedeirosl&label=Profile+Views&color=0d1117&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=lMedeirosl&label=Profile+Views&color=1f6feb&style=for-the-badge" />
 </p>
 
 ---
@@ -66,6 +66,6 @@ I am seeking my **first professional opportunity**, internship or junior role, t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer"/>
 </p>
 
