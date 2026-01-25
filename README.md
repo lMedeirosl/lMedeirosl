@@ -81,7 +81,6 @@ I am seeking my first professional opportunity, internship or junior role, to gr
 </p>
 
 <br/>
-
 <br/>
 <br/>
 <br/>
@@ -90,7 +89,9 @@ I am seeking my first professional opportunity, internship or junior role, to gr
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake.svg" />
