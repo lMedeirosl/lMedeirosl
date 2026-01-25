@@ -91,22 +91,6 @@ I am seeking my first professional opportunity, internship or junior role, to gr
 <br/>
 <br/>
 
-## 🌐 Contact & Social
-
-<p align="center">
-  <a href="https://github.com/lMedeirosl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lmedeirosl" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="https://discord.com/users/948317529095417907" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
-  </a>
-  <a href="mailto:contatolmedeirosl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake.svg" />
