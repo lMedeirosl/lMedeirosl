@@ -1,13 +1,14 @@
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=header"/>
 </p>
-
+-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=35&center=true&vCenter=true&width=1000&lines=HI,+I'm+Medeiros;I+am+a+Full+Stack+developer+in+Training;Welcome!+:%29)](https://git.io/typing-svg)
-
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lMedeirosl&label=Profile+Views&color=1f6feb&style=for-the-badge" />
 </p>
-
+-->
 ---
 
 ## 🧑‍💻 Sobre mim | About Me
@@ -98,7 +99,8 @@ I am seeking my first professional opportunity, internship or junior role, to gr
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake.svg">
 </picture>
-
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer"/>
 </p>
+-->
