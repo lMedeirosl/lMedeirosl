@@ -93,9 +93,12 @@ I am seeking my first professional opportunity, internship or junior role, to gr
 <br/>
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake.svg" />
-</p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer"/>
 </p>
