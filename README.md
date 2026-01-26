@@ -12,7 +12,7 @@
 </p>
 -->
 
-## 🧑‍💻 Sobre mim | About Me
+## 🧑‍💻 About Me
 
 PT-BR 🇧🇷  
 Sou um desenvolvedor em formação com foco em Back-end, atualmente estudando JavaScript e Node.js, além de fundamentos em Java.  
@@ -24,7 +24,7 @@ I am seeking my first professional opportunity, internship or junior role, to gr
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 My Stack
 
 <img align="right" src="https://cdn.discordapp.com/attachments/1462924727235383468/1465394525408329860/giphy_1.gif?ex=6978f280&is=6977a100&hm=cae90291fbcf9090477c18edde954a8396dfbf680ed2d4a5f1e50cc6b44c6775&" width="250" />
 
@@ -59,7 +59,7 @@ I am seeking my first professional opportunity, internship or junior role, to gr
 
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics 
 
 <p>
 <img
