@@ -2,9 +2,19 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=header"/>
 </p>
--->
+--> 
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B5CF0&size=35&center=true&vCenter=true&width=1000&lines=Hi+Im+Medeiros+a+full+stack+developer&repeat=false&duration=2000)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=35&center=true&vCenter=true&width=1000&lines=HI,+I'm+Medeiros;I+am+a+Full+Stack+developer+in+Training;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B5CF0&size=35&center=true&vCenter=true&width=1000&lines=Hi+Im+Medeiros+a+full+stack+developer&repeat=false&cursorChar=▌&cursorBlink=true)](https://git.io/typing-svg)
+-->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=transparent&text=Hi%20Im%20Medeiros%20a%20full%20stack%20developer&fontColor=7B5CF0&fontSize=42&height=80&stroke=7B5CF0&strokeWidth=1"
+  />
+</p>
+
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=35&center=true&vCenter=true&width=1000&lines=HI,+I'm+Medeiros;I+am+a+Full+Stack+developer+in+Training;Welcome!+:%29)](https://git.io/typing-svg) -->
 
 <!--
 <p align="center">
