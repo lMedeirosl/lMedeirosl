@@ -28,15 +28,7 @@
 ## 🧑‍💻 About Me
 <!--EN-US --> 
 I am a back-end developer in training, focused on JavaScript and Node.js, with basic knowledge of Java. I am seeking my first professional opportunity, whether an internship or junior role, and I am open to collaborating on any project in my field or gaining any kind of relevant experience. I am eager to learn, grow, and contribute to real-world projects in any way I can.
-<!--
-PT-BR 🇧🇷  
-Sou um desenvolvedor em formação com foco em Back-end, atualmente estudando JavaScript e Node.js, além de fundamentos em Java.  
-Busco minha primeira oportunidade profissional, estágio ou vaga júnior, com foco em aprendizado e evolução técnica.
 
-EN-US  
-I am a back-end developer in training, currently studying JavaScript and Node.js, with a foundation in Java.
-I am seeking my first professional opportunity, internship or junior role, to grow and contribute to real projects.
--->
 ---
 
 ### 🤖 My Stack
@@ -323,6 +315,7 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 -->
+<!-- Octodex images -->
 <p align="center">
   <img src="https://octodex.github.com/images/baracktocat.jpg" width="150" />
   &nbsp;&nbsp;&nbsp;&nbsp;
