@@ -323,6 +323,11 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 -->
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<!-- <img align='center' src=''width='200"'> -->
-<img align='left' src='https://octodex.github.com/images/baracktocat.jpg' width='200"'>
+<p align="center">
+  <img src="https://octodex.github.com/images/baracktocat.jpg" width="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="150" />
+</p>
+
