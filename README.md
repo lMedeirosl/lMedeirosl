@@ -107,11 +107,6 @@ I am seeking my first professional opportunity, internship or junior role, to gr
 <br/>
 <br/>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake.svg">
-</picture>
 <!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer"/>
@@ -136,12 +131,9 @@ Disk
   </br>
 GPU 
 	Intel(R) UHD Graphics
-
+<!-- TROCAR AS INFORMACOES ABAIXO QUANDO VC TIVER FOLLOWERS
 ### :sparkles: My Followers
 
-
-<!--START_SECTION:top-followers-->
-<!-- TROCAR AS INFORMACOES ABAIXO QUANDO VC TIVER FOLLOWERS
 <table>
   <tr>
     <td align="center">
@@ -249,6 +241,59 @@ GPU
 -->
 <!--END_SECTION:top-followers-->
 
+
+
+<!-- 👨‍💻 STACK OVERFLOW -->
+<p align="center">
+  <a href="https://stackoverflow.com/users/lMedeirosl">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=29196373&theme=dark" />
+  </a>
+</p>
+
+  
+<!--📛BADGES  -->
+<p align="center">
+  <a href="https://github.com/lMedeirosl?tab=stars&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lMedeirosl"/></a>
+<a href="https://github.com/trinib?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lmedeirosl?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+
+<!--👀VIEWS  -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lMedeirosl&color=0E9C47&style=for-the-badge">
+
+<!-- 📈 CONTRIBUTION GRAPHS -->
+<div align="center">
+
+  <!-- Activity Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lMedeirosl&theme=react-dark&hide_border=true&color=7B5CF0&line=00d668&point=8b007e"
+    width="100%"
+  />
+
+  <br/>
+
+  <!-- Snake -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/lMedeirosl/lMedeirosl/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+
+</div>
+	
+<!--
+<p align="center">
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 <div>
@@ -277,23 +322,5 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
-
-<!--👨‍💻STACKOVERFLOW  -->
-<p align="center">
-<a href="https://stackoverflow.com/users/29196373/lMedeirosl?tab=profile"><img src="https://github-readme-stackoverflow-trinibs-projects.vercel.app/?userID=14602915&theme=dark">
-  
-<!--📛BADGES  -->
-<p align="center">
-  <a href="https://github.com/lMedeirosl?tab=stars&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lMedeirosl"/></a>
-<a href="https://github.com/trinib?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lmedeirosl?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-
-<!--👀VIEWS  -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=lMedeirosl&color=0E9C47&style=for-the-badge">
-
-<!--📈ACTIVITYGRAPH  -->
-<img src="https://github-readme-activity-graph-trinib-projects.vercel.app/graph?username=lMedeirosl&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
-
+-->
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
