@@ -33,7 +33,7 @@ I am a back-end developer in training, focused on JavaScript and Node.js, with b
 
 ### 🤖 My Stack
 
-<img align="right" src="https://cdn.discordapp.com/attachments/1462924727235383468/1465394525408329860/giphy_1.gif?ex=6978f280&is=6977a100&hm=cae90291fbcf9090477c18edde954a8396dfbf680ed2d4a5f1e50cc6b44c6775&" width="250" />
+<img align="right" src="https://cdn.discordapp.com/attachments/1462924727235383468/1465394525408329860/giphy_1.gif?ex=6978f280&is=6977a100&hm=cae90291fbcf9090477c18edde954a8396dfbf680ed2d4a5f1e50cc6b44c6775&" width="300" />
 
 ### Main skills:
 
