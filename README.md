@@ -264,7 +264,7 @@ GPU
   />
 
   <br/>
-
+<!-- Se vc chegou até aqui considere me seguir e deixe uma estrelinha em alguns dos meus repositórios 0v0 -->
   <!-- Snake -->
   <picture>
     <source
