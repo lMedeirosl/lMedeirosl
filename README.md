@@ -251,9 +251,12 @@ GPU
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lmedeirosl?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 
 <!--👀VIEWS  -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=lMedeirosl&color=0E9C47&style=for-the-badge">
 
+### Profile Views
+counting of visitors to this page in this section started from 01/02/2026
+<!-- <img src="https://komarev.com/ghpvc/?username=lMedeirosl&color=0E9C47&style=for-the-badge">
+	-->
+<img src="https://count.getloli.com/@:lMedeirosl" alt=":name" />
 <!-- 📈 CONTRIBUTION GRAPHS -->
 <div align="center">
 
