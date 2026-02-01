@@ -107,6 +107,11 @@ I am a back-end developer in training, focused on JavaScript and Node.js, with b
 </br>
 </br>
 
+### Profile Views
+counting of visitors to this page in this section started from 01/02/2026
+
+<img src="https://count.getloli.com/@:lMedeirosl" alt=":name" />
+
 ### Holopin badges
 
 [![@lMedeirosl's Holopin board](https://holopin.me/lMedeirosl)](https://holopin.io/@lMedeiros)
@@ -252,11 +257,9 @@ GPU
 
 <!--👀VIEWS  -->
 
-### Profile Views
-counting of visitors to this page in this section started from 01/02/2026
 <!-- <img src="https://komarev.com/ghpvc/?username=lMedeirosl&color=0E9C47&style=for-the-badge">
 	-->
-<img src="https://count.getloli.com/@:lMedeirosl" alt=":name" />
+
 <!-- 📈 CONTRIBUTION GRAPHS -->
 <div align="center">
 
