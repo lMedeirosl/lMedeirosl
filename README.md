@@ -49,6 +49,8 @@ I am a back-end developer in training, focused on JavaScript and Node.js, with b
 ![Sql](https://img.shields.io/badge/-Sql-0D1117?style=for-the-badge&logo=sql&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![.NetCore](https://img.shields.io/badge/-.netcore-0D1117?style=for-the-badge&logo=.netcore&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 
 ### Tools:
 
