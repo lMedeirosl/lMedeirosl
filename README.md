@@ -112,7 +112,7 @@ I am a back-end developer in training, focused on JavaScript and Node.js, with b
 </br>
 
 ### Profile Views
-counting of visitors to this page in this section started from 01/02/2026
+Counting of visitors to this page in this section started from 01/02/2026
 
 <img src="https://count.getloli.com/@:lMedeirosl" alt=":name" />
 
