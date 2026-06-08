@@ -110,12 +110,12 @@ I am a back-end developer in training, focused on JavaScript and Node.js, with b
 -->
 </br>
 </br>
-
+<!--
 ### Profile Views
 Counting of visitors to this page in this section started from 01/02/2026
 
 <img src="https://count.getloli.com/@:lMedeirosl" alt=":name" />
-
+-->
 ### Holopin badges
 
 [![@lMedeirosl's Holopin board](https://holopin.me/lMedeirosl)](https://holopin.io/@lMedeiros)
