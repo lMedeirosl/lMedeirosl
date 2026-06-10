@@ -9,23 +9,23 @@ I have experience building REST APIs and working with SQL databases, and I am cu
 I am seeking my first professional opportunity as an intern or junior developer, where I can contribute, learn, and gain real-world experience.
 <br>
 <br>
-stack:
-JavaScript (ES6+)
-Node.js (Express)
-React.js
-SQL (PostgreSQL/MySQL)
+stack:<br>
+・JavaScript (ES6+)<br>
+・Node.js (Express)<br>
+・React.js<br>
+・SQL (PostgreSQL/MySQL)<br>
 <br>
 <br>
-Tools: 
-Git & GitHub
-VS Code
-Linux (Arch Linux)
+tools: <br>
+・Git & GitHub<br>
+・VS Code<br>
+・Linux (Arch Linux)<br>
 <br>
 <br>
 selected projects:
-REST API with authentication (JWT)
-Full-stack CRUD application (Node.js + React + SQL)
-Discord Bot (Node.js)
+・REST API with authentication (JWT)<br>
+・Full-stack CRUD application (Node.js + React + SQL)<br>
+・Discord Bot (Node.js)<br>
 <br>
 
 
