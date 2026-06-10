@@ -1,32 +1,10 @@
-<!--
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=header"/>
-</p>
---> 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B5CF0&size=35&center=true&vCenter=true&width=1000&lines=Hi+Im+Medeiros+a+full+stack+developer&repeat=false&duration=2000)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B5CF0&size=35&center=true&vCenter=true&width=1000&lines=Hi+Im+Medeiros+a+full+stack+developer&repeat=false&cursorChar=▌&cursorBlink=true)](https://git.io/typing-svg)
--->
-
-
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=transparent&text=Hi!%20Im%20Medeiros%20a%20full%20stack%20developer&fontColor=7B5CF0&fontSize=42&height=80&stroke=7B5CF0&strokeWidth=1"
   />
 </p>
 
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=35&center=true&vCenter=true&width=1000&lines=HI,+I'm+Medeiros;I+am+a+Full+Stack+developer+in+Training;Welcome!+:%29)](https://git.io/typing-svg) -->
-
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lMedeirosl&label=Profile+Views&color=1f6feb&style=for-the-badge" />
-</p>
--->
-
-
 ## 🧑‍💻 About Me
-<!--EN-US --> 
 I am a back-end developer in training, focused on JavaScript and Node.js, with basic knowledge of Java. I am seeking my first professional opportunity, whether an internship or junior role, and I am open to collaborating on any project in my field or gaining any kind of relevant experience. I am eager to learn, grow, and contribute to real-world projects in any way I can.
 
 ---
@@ -103,35 +81,14 @@ I am a back-end developer in training, focused on JavaScript and Node.js, with b
 <br/>
 <br/>
 
-<!--
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer"/>
-</p>
--->
 </br>
 </br>
-<!--
-### Profile Views
-Counting of visitors to this page in this section started from 01/02/2026
 
-<img src="https://count.getloli.com/@:lMedeirosl" alt=":name" />
--->
 ### Holopin badges
 
 [![@lMedeirosl's Holopin board](https://holopin.me/lMedeirosl)](https://holopin.io/@lMedeiros)
 
-### :computer: PC:
-CPU
-	Intel(R) Core(TM) i5-10210U 
-  </br>
-Memory
-	8.0 GB
-  </br>
-Disk  
-	NVMe -128G
-  </br>
-GPU 
-	Intel(R) UHD Graphics
+
 <!-- TROCAR AS INFORMACOES ABAIXO QUANDO VC TIVER FOLLOWERS
 ### :sparkles: My Followers
 
@@ -299,7 +256,7 @@ GPU
 
 </div>
 	
-<!--
+
 <p align="center">
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
@@ -329,7 +286,7 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
--->
+
 
 <!-- Octodex images -->
 <p align="center">
