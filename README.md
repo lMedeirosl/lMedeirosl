@@ -4,19 +4,28 @@
   align="left"
 />
 about me:<br>
-I am a back-end developer in training, focused on JavaScript and Node.js, with basic knowledge of Java.  
-I am seeking my first professional opportunity, whether an internship or junior role, and I am open to collaborating on any project in my field or gaining relevant experience. I am eager to learn, grow, and contribute to real-world projects.
+I am a back-end developer in training, focused on JavaScript and Node.js.
+I have experience building REST APIs and working with SQL databases, and I am currently developing full-stack applications using React.
+I am seeking my first professional opportunity as an intern or junior developer, where I can contribute, learn, and gain real-world experience.
 <br>
 <br>
 stack:
-Node.js, React.js, JavaScript, C#, Java, Python, C, C++, SQL  
+JavaScript (ES6+)
+Node.js (Express)
+React.js
+SQL (PostgreSQL/MySQL)
 <br>
 <br>
-Tools: Visual Studio, VS Code, Arch Linux, Git, GitHub, Microsoft Office
+Tools: 
+Git & GitHub
+VS Code
+Linux (Arch Linux)
 <br>
 <br>
 selected projects:
-+Discord Bot:
+REST API with authentication (JWT)
+Full-stack CRUD application (Node.js + React + SQL)
+Discord Bot (Node.js)
 <br>
 
 
