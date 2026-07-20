@@ -1,6 +1,6 @@
 <img 
   src="https://i.pinimg.com/736x/12/51/59/125159b1210736b722bcb751cb0748bd.jpg" 
-  width="700px" 
+  width="650px" 
   align="left"
 />
 about me:<br>
