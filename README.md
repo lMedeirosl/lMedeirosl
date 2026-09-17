@@ -19,7 +19,7 @@ stack:<br>
 tools: <br>
 ・Git & GitHub<br>
 ・VS Code<br>
-・Linux (Arch Linux)<br>
+・Linux (experience in ubuntu, fedora and archlinux) <br>
 <br>
 <br>
 selected projects:
