@@ -21,11 +21,5 @@ tools: <br>
 ・VS Code<br>
 ・Linux (experience in ubuntu, fedora and archlinux) <br>
 <br>
-<br>
-selected projects:
-・REST API with authentication (JWT)<br>
-・Full-stack CRUD application (Node.js + React + SQL)<br>
-・Discord Bot (Node.js)<br>
-<br>
 
 
