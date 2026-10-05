@@ -7,10 +7,10 @@ about me:
   - deeply interested in physics simulations, linear algebra, ml, cloud & cybersecurity
 
 langs:
-  > c#, c/c++, python, java, javascript, sql
+  - c#, c/c++, python, java, javascript, sql
 
 backend & tools:
-  > .net core, node.js (express), rest apis, relational databases, docker, git, latex, rabbitmq, swagger, azure, devsecops
+  - .net core, node.js (express), rest apis, relational databases, docker, git, latex, rabbitmq, swagger, azure, devsecops
 
 data science & math:
-  > pytorch, pandas, numpy, matlab, lammps, vmd, ai security, front-end (react, responsive design)
+  - pytorch, pandas, numpy, matlab, lammps, vmd, ai security, front-end (react, responsive design)
