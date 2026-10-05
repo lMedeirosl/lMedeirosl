@@ -1,10 +1,9 @@
-```text
-lmedeirosl@nitro
+
 ------------------------------
 about me:
   - he/him, brazilian, pt-br / english
   - applied mathematics student at UNICAMP
-  - fullstack developer & undergraduate researcher
+  - fullstack developer 
   - deeply interested in physics simulations, linear algebra, ml, cloud & cybersecurity
 
 langs:
